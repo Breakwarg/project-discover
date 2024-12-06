@@ -9,7 +9,7 @@ function toggleMode() {
     img.setAttribute("src", "./assets/avatar-light.png")
     icon.setAttribute("name", "sun")
   } else {
-    img.setAttribute("src", "./assets/Avatar.png")
+    img.setAttribute("src", "./assets/avatar.png")
     icon.setAttribute("name", "moon")
   }
 }
